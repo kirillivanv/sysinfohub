@@ -11,7 +11,7 @@ def read_registry(key, value):
         print(f"Ошибка доступа к реестру: {e}")
         return None
 
-# Функция для чтения информации о пользователях 
+# Функция для чтения информации о пользователях
 def get_user_info():
     user_info_list = []
     try:
