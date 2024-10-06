@@ -45,3 +45,12 @@ BIOS_Family: B550M DS3H
 BIOS_Version: FC
 BIOS_Vendor: American Megatrends International, LLC.
 ```
+```
+========================================
+Информация об операционной системе:
+========================================
+
+Name: Windows 10 Pro
+Version: 23H2
+Install Date: 1678461047
+```
