@@ -19,5 +19,5 @@ SysinfoHub предоставляет следующую информацию:
 * Python: 3.x
 
 ### Установка и запуск
-1. Клонируйте репозиторий: (https://github.com/kirillivanv/Sysinfohub.git)
+1. Клонируйте репозиторий: ```git clone https://github.com/kirillivanv/Sysinfohub.git```
 2. 
