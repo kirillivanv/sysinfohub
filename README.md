@@ -34,6 +34,14 @@ SysinfoHub предоставляет следующую информацию:
 6 - Информация о программном обеспечении
 7 - Информация о часовом поясе
 ```
+**Пример вывода:** 
+```
+========================================
+Информация о BIOS:
+========================================
 
-asd
-    asd
+BIOS_Manufacturer: Gigabyte Technology Co., Ltd.
+BIOS_Family: B550M DS3H
+BIOS_Version: FC
+BIOS_Vendor: American Megatrends International, LLC.
+```
